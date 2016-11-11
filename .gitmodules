@@ -4,3 +4,6 @@
 [submodule "modality"]
 	path = modality
 	url = git@github.com:trace-inesc/modality.git
+[submodule "store-client"]
+	path = store-client
+	url = git@github.com:trace-inesc/store-client.git
