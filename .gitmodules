@@ -7,3 +7,6 @@
 [submodule "store-client"]
 	path = store-client
 	url = git@github.com:trace-inesc/store-client.git
+[submodule "store-api"]
+	path = store-api
+	url = git@github.com:trace-inesc/store-api.git
